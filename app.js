@@ -2,7 +2,7 @@
 //1e63525ae47f9f335afd
 
 //Secret: 41406310760b2e018d3c4dda5d7dd41a7551554d
-// inn order to use modular system like this we need to use a compiler like babel or webpack to compile it into one, will learn about that later, alternatively use multiple script tags
+
 
 // initialise github class
 const github= new GitHub;
